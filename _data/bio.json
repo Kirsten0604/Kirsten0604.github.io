@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kirsten Takanishi",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "khtakani@hawaii.edu",
+    "phone": "808-371-9190",
+    "website": "https://Kirsten0604.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96825",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Kirsten0604",
+        "url": "https://github.com/Kirsten0604"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "khtakani",
+        "url": "https://www.linkedin.com/in/kirsten-t-194751146"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Songwriting",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Dancing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "cybersecurity",
       "keywords": [
       ]
     }
@@ -66,7 +54,9 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "CSS",
+        "HTML"
       ]
     },
     {
@@ -76,7 +66,9 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "Windows",
         "g++",
+        "gcc",
         "TI LaunchPad"
       ]
     }
@@ -84,10 +76,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "area": "Computer Science (expected Spring, 2020)",
+      "studyType": "B.A.",
+      "startDate": "2016-08-01",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
@@ -95,69 +87,51 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Office of Enterprise Technology Services, State of Hawaii",
+      "position": "Chief Information Officer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "June 2017",
+      "endDate": "August 2017",
+      "summary": "Intern for CIO Todd Nacapuy",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "BYO Bowls",
+      "position": "Bartender",
+      "website": "",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Hawaiian Humane Society",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Volunteer",
+      "startDate": "2013",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Help dogs get adopted"
       ]
-    }
-  ],
+    },
+  ]
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "WetWare Wednesday Graphic Design Logo Winner",
+      "date": "2016",
+      "awarder": "",
+      "summary": "Design a logo related to hardware."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Career and Technical Education (CTE) competition 1st place Graphic Design",
+      "date": "2016",
+      "awarder": "DLNR",
+      "summary": "Design a logo related to environmental issues."
     }
   ],
   "references": [
