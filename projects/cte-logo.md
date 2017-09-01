@@ -10,9 +10,7 @@ labels:
 summary: A team graphic design logo competition.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/logo1.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/logo1.png">
 
 The CTE PBA is an annual competition.  However, the real goal was to get the CTE honors for graduation.  In order to fill this requirement, a test has to be passed, an essay written, and you must compete in this competition, each section scored.  People from many different schools compete in different categories (ex: culinary, graphics, digital media, etc.).  I did graphic design with two other teammates: Talia Fix McNamara and Spencer Lee. 
 
