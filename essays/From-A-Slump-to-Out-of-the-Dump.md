@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+<img class="ui tiny left circular floated image" src="../images/images/p1.PNG">
 
 When I was younger, around 7 or 8, I was learning how to write elaborate essays.  However,  English was not my strongest suit, so the topic was completely lost on me.  There were books and documents supplied in hopes I would understand, but that failed.  My mom decided to introduce a new way of learning to me: the computer.  I had seen one, but I had never used it.  My opinion of a computer started when she had me play learning games to improve my skills in certain subjects.  To me, a computer is a piece of machinery that we co-depend on.  I say this because the computer depends on us to give certain commands so it can run programs properly, while we depend on the computer to figure out the more technical aspects that we cannot comprehend (hi-level versus low-level).   
 
