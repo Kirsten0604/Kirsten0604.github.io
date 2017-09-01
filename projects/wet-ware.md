@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wetwarelogo.jpg
 title: WetWare Logo Design
-permalink: projects/wetwarelogo.jpg
+permalink: projects/wetwarelogo
 date: 2016
 labels:
   - Adobe Illustrator
