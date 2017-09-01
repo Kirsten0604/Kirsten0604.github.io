@@ -22,6 +22,6 @@ Coming to the conclusion of majoring in Computer Science is not what the typical
 
 ## Final Comments:
 
-<img class="ui tiny left circular floated image" src="../images/flappyk.png">
+<img class="ui tiny left circular floated image" src="../images/flappyk.PNG">
 
 In conclusion, computers are important aspects of our everyday lives, whether we are using one or we aren’t.  Computers are connected with everything a person uses, whether it is something technical like a program or a normal item such as a tube of toothpaste.  Without computers, it would be very hard for anyone to survive in the modern day.
