@@ -11,7 +11,7 @@ summary: I made the logo for the HACC Hackathon.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/HACC.png">
+  <img class="ui image" src="../images/HACC.png" width=400px; height=400px;>
 </div>
 
   The HACC (Hawaii Annual Coding Challenge) is a statewide hackathon that addresses the issues of Hawaii that can be fixed by technology (ex: finding a way for people to communicate with their relatives in prison).  The Governor put State CIO Todd Nacapuy in charge of the event, whom I interned for in the summer.  
