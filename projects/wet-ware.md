@@ -10,7 +10,7 @@ labels:
 summary: A logo for a Wetware Wednesday event.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/wetwarelogo.jpg">
+<img class="ui medium right floated rounded image" src="../images/wetwarelogo.jpg" width = 400px; height = 400px;>
 
 WetWare Wednesday is an event where people of different majors (mostly ICS) can meet fellow ICS students and also meet scouts looking for new talent.  This is a great way to start building connections, because it will be useful in the future when it comes to job searching.
 
