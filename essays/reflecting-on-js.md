@@ -19,4 +19,26 @@ I felt the most satisfied when I finished the WOD, and it worked properly.  I fe
 
 ## Final Comments:
 
-I did enjoy the Danny WOD that I attended.  It was a good practice problem for me, because it helped me prepare for the real WOD.  The TA also explained an example of a good solution promptly after the Danny WOD was finished, which helped me fix my mistakes and understand the logic better. JavaScript is my go-to language, and I like using it for websites and certain apps.  As long as I keep practicing and asking questions when I need help, I believe I will do fine with the WOD way of learning.
+I did enjoy the Danny WOD that I attended.  It was a good practice problem for me, because it helped me prepare for the real WOD.  The TA also explained an example of a good solution promptly after the Danny WOD was finished, which helped me fix my mistakes and understand the logic better. Here is an example of the Danny WOD solution:
+
+```function Sharky(foods) {
+  let total = 0;
+  for (let food of foods) {
+    if (food == 'fish') {
+      total++;
+      console.log("Sharky ate some fish and is happy!");
+    } else if (food == 'trash') {
+      console.log("Sharky ate some trash and is mad!");
+    } else if (food == 'other') {
+      console.log("Sharky is starving...")
+    }
+  }
+
+  if (total >= 4) {
+    console.log("Sharky is very satisfied");
+  } else {
+    console.log("Sharky is on a rampage!");
+  }
+};```
+
+JavaScript is my go-to language, and I like using it for websites and certain apps.  As long as I keep practicing and asking questions when I need help, I believe I will do fine with the WOD way of learning.
