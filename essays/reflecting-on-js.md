@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on JavaScript
+title: My JavaScript Endeavors
 date: 2017-08-29
 labels:
   - Software Engineering
