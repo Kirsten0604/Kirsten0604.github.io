@@ -17,7 +17,7 @@ While I was still searching for a major in my senior year of high school, I was 
 
 I felt the most satisfied when I finished the WOD, and it worked properly.  I feel the WODs are hard, because not only do you have to solve the puzzle and program it correctly, but you also have a time limit, causing you to work under pressure and think on the spot.  It took me a while just to learn the components of JavaScript, as well as the logic when it comes to coding in general.  However, I do feel these WODs will be very useful in the future, because I have learned how to focus better and to practice until I can code certain types of functions easily.  I did make it under 8 minutes, and I will keep improving for the future WODs if I keep practicing.
 
-## Final Comments:
+## Insights:
 
 I did enjoy the Danny WOD that I attended.  It was a good practice problem for me, because it helped me prepare for the real WOD.  The TA also explained an example of a good solution promptly after the Danny WOD was finished, which helped me fix my mistakes and understand the logic better. Here is an example of the Danny WOD solution:
 
