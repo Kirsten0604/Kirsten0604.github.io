@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: My JavaScript Endeavors
-date: 2017-08-29
+title: There Is Such a Thing As a "Dumb Question"
+date: 2017-09-5
 labels:
-  - Software Engineering
-  - JavaScript
+  - StackOverflow
+  - Inquiring
   - Learning
 ---
 
