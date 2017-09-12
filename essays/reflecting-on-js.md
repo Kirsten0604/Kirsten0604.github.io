@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My JavaScript Endeavors
+title: Journey Through JavaScript
 date: 2017-08-29
 labels:
   - Software Engineering
