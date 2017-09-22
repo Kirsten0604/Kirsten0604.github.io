@@ -17,7 +17,7 @@ To me, IntelliJ is just another typical editor for code.  Well, that is what I o
 console.log("Hello, world!");
 ```
 
-This would be considered correct by most JavaScript editors, but IntelliJ would oppose that implication, saying that the "" must be single ''.  As you can tell, IntelliJ isn't my favorite program to use when editing code, but it is good in relation to code styling.  I say this because it catches every little detail, and most future industries want programmers who can come up with clean code.  Another important fact was everything has to be redone when loading the IntelliJ environment.  The Script must be reset to 6 instead of 5.1, ES Lint must be readded, etc.  I was trying to find a way to have it automatically default to the settings I had, but failed at the attempt.
+This would be considered correct by most JavaScript editors, but IntelliJ would oppose that implication, saying that the "" must be single ''.  As you can tell, IntelliJ isn't my favorite program to use when editing code, but it is good in relation to code styling.  I say this because it catches every little detail, and most future industries want programmers who can come up with clean code.  Another important fact was everything has to be redone when loading the IntelliJ environment.  The Script must be reset to 6 instead of 5.1, ES Lint must be re-added, etc.  I was trying to find a way to have it automatically default to the settings I had, but failed at the attempt.
 
 ## How do you feel when you get a green checkmark?
 
@@ -25,4 +25,4 @@ Naturally, a green checkmark is the one symbol you want to see after you finish 
 
 ## Final Comments:
 
-Overall, I would prefer not to use IntelliJ until the very end of my code.  I say this because it is good to format your code, but while doing a WOD, you can feel the panic when you are trying to get that green checkmark and you cannot figure out the error (and you haven't even finished making your code work yet).  No one can really type "perfect code" on the first try, which is why my strategy works.  Type the code out first (make sure the function runs properly), and then edit the little things in IntelliJ to style your code cleanly and fix any other minor errors that ocur.
+Overall, I would prefer not to use IntelliJ until the very end of my code.  I say this because it is good to format your code, but while doing a WOD, you can feel the panic when you are trying to get that green checkmark and you cannot figure out the error (and you haven't even finished making your code work yet).  No one can really type "perfect code" on the first try, which is why my strategy works.  Type the code out first (make sure the function runs properly), and then edit the little things in IntelliJ to style your code cleanly and fix any other minor errors that occur.
