@@ -21,32 +21,8 @@ This would be considered correct by most JavaScript editors, but IntelliJ would 
 
 ## How do you feel when you get a green checkmark?
 
-Naturally, a green checkmark is the one symbol you want to see after you finish typing your code.  However, the journey to get to that point is quite tedious versus using another editor.
+Naturally, a green checkmark is the one symbol you want to see after you finish typing your code.  However, the journey to get to that point is quite tedious versus using another editor.  Trying to even make sure the ES Lint gives off an error is a voyage in itself.  You have to have a bunch of settings set (like I said in the previous paragraph) to make the ES Lint work properly.  Also, another thing to consider includes the platform you use.  I use a Windows machine, and my peers agreed that more people have problems on Windows than a Mac.  Considering all of that, I am not entirely sure a green checkmark always means "good".  Although it is important you get that green checkmark in the end, the effort you must put in to get there will take some time.
 
 ## Final Comments:
 
-I did enjoy the Danny WOD that I attended.  It was a good practice problem for me, because it helped me prepare for the real WOD.  The TA also explained an example of a good solution promptly after the Danny WOD was finished, which helped me fix my mistakes and understand the logic better. Here is an example of the Danny WOD solution:
-
-```
-function Sharky(foods) {
-  let total = 0;
-  for (let food of foods) {
-    if (food == 'fish') {
-      total++;
-      console.log("Sharky ate some fish and is happy!");
-    } else if (food == 'trash') {
-      console.log("Sharky ate some trash and is mad!");
-    } else if (food == 'other') {
-      console.log("Sharky is starving...")
-    }
-  }
-
-  if (total >= 4) {
-    console.log("Sharky is very satisfied");
-  } else {
-    console.log("Sharky is on a rampage!");
-  }
-};
-```
-
-JavaScript is my go-to language, and I like using it for websites and certain apps.  As long as I keep practicing and asking questions when I need help, I believe I will do fine with the WOD way of learning.
+Overall, I would prefer not to use IntelliJ until the very end of my code.  I say this because it is good to format your code, but while doing a WOD, you can feel the panic when you are trying to get that green checkmark and you cannot figure out the error (and you haven't even finished making your code work yet).  No one can really type "perfect code" on the first try, which is why my strategy works.  Type the code out first (make sure the function runs properly), and then edit the little things in IntelliJ to style your code cleanly and fix any other minor errors that ocur.
