@@ -4,8 +4,6 @@ type: essay
 title: Why UI Semantics Makes Me Cry
 date: 2017-10-5
 labels:
-  - Software Engineering
-  - Learning
   - HTML
   - CSS
   - UI
