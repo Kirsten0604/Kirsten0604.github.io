@@ -13,7 +13,6 @@ labels:
 
 ## What was your first opinion on Semantic UI?
 
-<img class="ui tiny left circular floated image" src="../images/p1.PNG">
 I am a person who doesn't always like change.  I had used Bootstrap in the past, and I was used to the way it was styled.  When Semantic UI was introduced, I was automatically terrified.  I did want to learn something new, but at the same time I was afraid I would have a hard time figuring out the language (it took me about a month to get used to Boostrap, and I still have some issues with it).  It also constantly confuses me to wrap many elements within each other.  If I miss even one closing tag in a nested div:
 
 ```<div class ="footer-background">
@@ -31,7 +30,7 @@ I am a person who doesn't always like change.  I had used Bootstrap in the past,
     </div>
 </div>```
 
-I already know I will either struggle and consume time trying to figure out where the last tag goes, or I will give up because I know it is a lost cause.
+I already know I will either struggle and consume time trying to figure out where the last tag goes, or I will give up because I know it is a lost cause.  However, one thing I like about Semantic UI is that you can automatically say the direction you want a certain element to go in (i.e., insert "right", "left", etc. in the div class).
 
 ## What made you want to go into Computer Science?
 
