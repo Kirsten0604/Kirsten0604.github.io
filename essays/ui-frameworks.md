@@ -35,8 +35,6 @@ I already know I will either struggle and consume time trying to figure out wher
 
 ## How can you compare raw HTML and CSS to Semantic UI?
 
-<img class="ui tiny left circular floated image" src="../images/ui.png">
-
 Naturally, hard-coding in HTML is a lot faster than CSS and Semantic UI in general.  Adding the CSS is just a simple step further, but Semantic UI is an entirely separate condition.  With Semantic UI, you have to be specific when targeting certain classes.  For example, you can use generalities for basic HTML and CSS connections (div, span, p, etc.).  For Semantic UI, you must be specific, and may end up with many words between the "." to define the classes.  Also, Semantic UI is a lot more complicated than HTML, considering the fact that each part of the website you work on is separated by specific types of UI classes (topmenu, middlemenu, footer).  However, I would prefer not to be on a time restraint when it comes to Semantic UI, because there are a lot of different ways to design a website with it, and I would like to explore (and find the easiest solution, of course) to see the various pathways.
 
 ## Final Comments:
