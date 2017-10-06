@@ -28,7 +28,8 @@ I am a person who doesn't always like change.  I had used Bootstrap in the past,
         <div class="header">|</div>
       </div>
     </div>
-</div>```
+</div>
+```
 
 I already know I will either struggle and consume time trying to figure out where the last tag goes, or I will give up because I know it is a lost cause.  However, one thing I like about Semantic UI is that you can automatically say the direction you want a certain element to go in (i.e., insert "right", "left", etc. in the div class).
 
