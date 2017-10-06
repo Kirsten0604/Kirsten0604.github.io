@@ -39,4 +39,6 @@ Naturally, hard-coding in HTML is a lot faster than CSS and Semantic UI in gener
 
 ## Final Comments:
 
+<img class="ui tiny left circular floated image" src="../images/ui.png">
+
 Overall, I would prefer Semantic UI when I have a long period of time to do the project I am working on.  If it is something short, then I would rather use HTML and CSS to give the raw draft of the code (if I had more time, I would finalize it with Semantic UI editing).  However,  I would rather use hard-coding in general, because it gives me easier access individually (if I were targeting more than one div with the same class name, I would use CSS).  Semantic UI is very hard to grasp in the beginning, which is why I still struggle with it even though I practiced for days.  Therefore, I would not recommend Semantic UI for beginners.
