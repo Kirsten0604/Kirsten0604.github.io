@@ -35,10 +35,9 @@ I already know I will either struggle and consume time trying to figure out wher
 
 ## How can you compare raw HTML and CSS to Semantic UI?
 
-<img class="ui tiny left circular floated image" src="../images/IMG_0618.JPG">
-//https://i2.wp.com/blog.fossasia.org/wp-content/uploads/2017/06/semantic.png?fit=756%2C476&ssl=1
+<img class="ui tiny left circular floated image" src="https://i2.wp.com/blog.fossasia.org/wp-content/uploads/2017/06/semantic.png?fit=756%2C476&ssl=1">
 
-Coming to the conclusion of majoring in Computer Science is not what the typical person would expect.  In fact, I had no thought of doing this major, nor did I even know what coding was in the past.  I was originally going to dance for a couple of years and go to college later so I could study medicine and become a surgeon.  Unfortunately, I injured myself to the point where I couldn’t dance anymore, and my career flew out the window, not to mention my new appearing fear of the sight of blood (I could not become a surgeon under these circumstances).  I was in senior year of high school, and I needed to find out what my future plans were before I graduated.  Once again, my mom indirectly came to the rescue, having taken a basic coding class at Devleague and making me do the same.  I picked up the logic fast, and I was able to successfully make websites and simple programs quickly in Javascript.  Therefore, I had decided on my major.
+Naturally, hardcoding in HTML is a lot faster than CSS and Semantic UI in general.  Adding the CSS is just a simple step further, but Semantic UI is an entirely separate condition.  With Semantic UI, you have to be specific when targeting certain classes.  For example, you can use generalities for basic HTML and CSS connections (div, span, p, etc.).  For Semantic UI, you must be specific, and may end up with many words between the "." to define the classes.  Also, Semantic UI is a lot more complicated than HTML, considering the fact that each part of the website you work on is separated by specific types of UI classes (topmenu, middlemenu, footer). 
 
 ## Final Comments:
 
