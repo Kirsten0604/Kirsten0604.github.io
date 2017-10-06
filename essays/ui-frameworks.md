@@ -33,9 +33,10 @@ I am a person who doesn't always like change.  I had used Bootstrap in the past,
 
 I already know I will either struggle and consume time trying to figure out where the last tag goes, or I will give up because I know it is a lost cause.  However, one thing I like about Semantic UI is that you can automatically say the direction you want a certain element to go in (i.e., insert "right", "left", etc. in the div class).
 
-## What made you want to go into Computer Science?
+## How can you compare raw HTML and CSS to Semantic UI?
 
 <img class="ui tiny left circular floated image" src="../images/IMG_0618.JPG">
+//https://i2.wp.com/blog.fossasia.org/wp-content/uploads/2017/06/semantic.png?fit=756%2C476&ssl=1
 
 Coming to the conclusion of majoring in Computer Science is not what the typical person would expect.  In fact, I had no thought of doing this major, nor did I even know what coding was in the past.  I was originally going to dance for a couple of years and go to college later so I could study medicine and become a surgeon.  Unfortunately, I injured myself to the point where I couldn’t dance anymore, and my career flew out the window, not to mention my new appearing fear of the sight of blood (I could not become a surgeon under these circumstances).  I was in senior year of high school, and I needed to find out what my future plans were before I graduated.  Once again, my mom indirectly came to the rescue, having taken a basic coding class at Devleague and making me do the same.  I picked up the logic fast, and I was able to successfully make websites and simple programs quickly in Javascript.  Therefore, I had decided on my major.
 
