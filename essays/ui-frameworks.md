@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Why UI Semantics Makes Me Cry
-date: 2017-10-5
+date: 2017-10-05
 labels:
   - HTML
   - CSS
