@@ -41,3 +41,5 @@ Some possible mockup pages include:
 - Notify admins when there is new activity or a new request so they can review for appropriateness.
 - Allow students to rate activities.
 - Allows comments from students.  If inappropriate, Admin should have access to deletion.
+
+Collaborators: Kirsten Takanishi & Aaron Nonaka
