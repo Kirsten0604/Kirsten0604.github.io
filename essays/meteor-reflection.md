@@ -28,4 +28,4 @@ If a meteor hits the Earth, many people would be injured.  Multiply that by infi
 
 ## Final Comments:
 
-x
+Like Danny Weng said, "It could have been worse."  However, I say "It could have been better."  I am completely exaggerating, but I really disliked this lesson.  It is partially because of the problems I ran into, but it was also because I get frustrated when I see errors pop up and my code doesn't work.  I say this because it makes me feel like I failed (when sometimes I actually did it correctly and Meteor just had issues running).  As much as I do enjoy learning new things and faster ways to do a function that I started out doing the hard way, I would not try this again for a while.
