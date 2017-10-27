@@ -12,15 +12,19 @@ labels:
 
 I am not even sure how to begin answering this question.  Like I said before, Meteor was by far the hardest programming area compared to all the other sections we have covered.  To me, the easiest part in Meteor was completed after I did the same task once previously.  Although this is a rhetorical statement, I say this because all the formatting was the same in relation to the starting instruction.  For example, the WOD this week was to add an event that works like a delete button.  In one of the homework WODs, we had already done the same thing, except it was a function to update an account.  We had this line:
 
-``` Contacts.update(FlowRouter.getParam('_id'));```
+```
+Contacts.update(FlowRouter.getParam('_id'));
+```
 
 All we needed was to switch the word "update" to "remove" in the digits WOD:
 
-```Contacts.remove(FlowRouter.getParam('_id'));```
+```
+Contacts.remove(FlowRouter.getParam('_id'));
+```
 
 ## What did you find hard about Meteor?
 
-I felt the most satisfied when I finished the WOD, and it worked properly.  I feel the WODs are hard, because not only do you have to solve the puzzle and program it correctly, but you also have a time limit, causing you to work under pressure and think on the spot.  It took me a while just to learn the components of JavaScript, as well as the logic when it comes to coding in general.  However, I do feel these WODs will be very useful in the future, because I have learned how to focus better and to practice until I can code certain types of functions easily.  I did make it under 8 minutes, and I will keep improving for the future WODs if I keep practicing.
+If a meteor hits the Earth, many people would be injured.
 
 ## Final Comments:
 
