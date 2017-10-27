@@ -24,32 +24,8 @@ Contacts.remove(FlowRouter.getParam('_id'));
 
 ## What did you find hard about Meteor?
 
-If a meteor hits the Earth, many people would be injured.
+If a meteor hits the Earth, many people would be injured.  Multiply that by infinity, and imagine that impact on my brain.  That is how I feel about running the Meteor program.  Like I stated before, I hate Meteor because of components that are out of my control.  This ranges from installing packages to the amount of damage it does to my computer.  My computer is quite new, and you can hear a "whirring" noise everytime I run the program. It also makes all my other applications run slower than normal.  Although one can argue that my computer could be an older version that has a hard time with meteor, mine is an HP Spectre, which was just let out at the beginning of this year, so that should not be the case.  I followed all the instructions, and I watched all the tutorials needed, so I guess I was just unlucky in my run-in with Meteor.
 
 ## Final Comments:
 
-I did enjoy the Danny WOD that I attended.  It was a good practice problem for me, because it helped me prepare for the real WOD.  The TA also explained an example of a good solution promptly after the Danny WOD was finished, which helped me fix my mistakes and understand the logic better. Here is an example of the Danny WOD solution:
-
-```
-function Sharky(foods) {
-  let total = 0;
-  for (let food of foods) {
-    if (food == 'fish') {
-      total++;
-      console.log("Sharky ate some fish and is happy!");
-    } else if (food == 'trash') {
-      console.log("Sharky ate some trash and is mad!");
-    } else if (food == 'other') {
-      console.log("Sharky is starving...")
-    }
-  }
-
-  if (total >= 4) {
-    console.log("Sharky is very satisfied");
-  } else {
-    console.log("Sharky is on a rampage!");
-  }
-};
-```
-
-JavaScript is my go-to language, and I like using it for websites and certain apps.  As long as I keep practicing and asking questions when I need help, I believe I will do fine with the WOD way of learning.
+x
