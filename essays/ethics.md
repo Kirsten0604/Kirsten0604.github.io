@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ethics: It's All In Your Mind
+title: "Ethics: It's All In Your Mind"
 date: 2017-11-30
 labels:
   - Software Engineering
