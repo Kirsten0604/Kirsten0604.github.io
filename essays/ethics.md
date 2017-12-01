@@ -15,7 +15,7 @@ When most people think about ethics, they believe it is in relation to morals an
 
 ## What did you find from reading "The code I'm still ashamed of"?
 
-Naturally, every topic is debatable.  Anyone can find some way to twist words to put blame on someone else, to excuse yourself from facing your fears of the modern day world.  :smiley:
+Naturally, every topic is debatable.  Anyone can find some way to twist words to put blame on someone else, to excuse yourself from facing your fears of the modern day world. :face_with_rolling_eyes:
 
 ## Final Comments:
 
