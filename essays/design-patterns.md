@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Ethics: It's All In Your Mind"
-date: 2017-11-30
+title: "Works On My Machine"
+date: 2017-12-05
 labels:
   - Software Engineering
-  - Ethics
-  - Morals
+  - Design Patterns
 ---
 
 ## What do you think "ethics" is in terms of software engineering?
