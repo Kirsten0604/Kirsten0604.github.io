@@ -117,14 +117,74 @@
   ],
   "volunteer": [
     {
-      "organization": "Hawaiian Humane Society",
+      "organization": "ICS Grey Hats Cyber Security Club",
       "website": "",
-      "position": "Volunteer",
-      "startDate": "2013",
+      "position": "Treasurer",
+      "startDate": "2016",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Help dogs get adopted"
+        "Participate in CTF competitions",
+        "Learn how to use different languages",
+        "Work as teams towards offense and defense"
+      ]
+    },
+    {
+      "organization": "ACM (Association and Computer Machinery) Club",
+      "website": "",
+      "position": "Member",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Find internship opportunities",
+        "Learn how to do interviews and build your resume"
+      ]
+    },
+    {
+      "organization": "DevLeague",
+      "website": "",
+      "position": "Teaching Assistant",
+      "startDate": "May 2016",
+      "endDate": "Aug. 2016",
+      "summary": "",
+      "highlights": [
+        "Assist in teaching students the basics of Javascript"
+      ]
+    },
+    {
+      "organization": "Kaiser High School American Red Cross Club",
+      "website": "",
+      "position": "Vice President",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "CPR training"
+      ]
+    },
+    {
+      "organization": "Kaiser High School Hawaiian Humane Society Club",
+      "website": "",
+      "position": " President and Founder",
+      "startDate": "2015",
+      "endDate": "2016",
+      "summary": "",
+      "highlights": [
+        "Help dogs get adopted",
+        "Teach other students how to alleviate animal issues within the community"
+      ]
+    },
+    {
+      "organization": "Kaiser High School Dance Club",
+      "website": "",
+      "position": "President",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "",
+      "highlights": [
+        "Teach others the basics of different types of dance",
+        "Learn how to create choreography"
       ]
     }
   ],
