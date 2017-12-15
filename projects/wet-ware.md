@@ -7,6 +7,9 @@ permalink: projects/wetwarelogo
 date: 2016
 labels:
   - Adobe Illustrator
+  - Adobe Photoshop
+  - WetWare
+  - Software Engineering
 summary: A logo for a Wetware Wednesday event.
 ---
 
