@@ -14,7 +14,7 @@ labels:
 summary: An app for UH Manoa ICS students and faculty to learn the basics of certain courses and tips on how to survive these pathways.
 ---
 
-<img src="../images/landing.png">
+<img class ="ui left floated image" src="../images/landing.png">
 
 WetWare Wednesday is an event where people of different majors (mostly ICS) can meet fellow ICS students and also meet scouts looking for new talent.  This is a great way to start building connections, because it will be useful in the future when it comes to job searching.
 
