@@ -14,6 +14,8 @@ labels:
 summary: An app for UH Manoa ICS students and faculty to learn the basics of certain courses and tips on how to survive these pathways.
 ---
 
+Organization Github Page: <a href="https://github.com/thinkuh"><i class="github icon"></i>ThinkUH</a>
+
 <img class ="ui left floated image" src="../images/landing.png">
 
 
