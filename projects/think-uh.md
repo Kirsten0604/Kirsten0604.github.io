@@ -11,7 +11,7 @@ labels:
   - Meteor
   - Teamwork
   - UI
-summary: An app for UH Manoa ICS students and faculty to learn the basics of certain courses and tips on how to survive these pathways.
+summary: An app for UH Manoa students and faculty to learn the basics of certain courses and tips on how to survive these pathways.
 ---
 
 Organization Github Page: <a href="https://github.com/thinkuh"><i class="github icon"></i>ThinkUH</a>
@@ -19,8 +19,8 @@ Organization Github Page: <a href="https://github.com/thinkuh"><i class="github 
 <img class ="ui left floated image" src="../images/landing.png">
 
 
-WetWare Wednesday is an event where people of different majors (mostly ICS) can meet fellow ICS students and also meet scouts looking for new talent.  This is a great way to start building connections, because it will be useful in the future when it comes to job searching.
+ThinkUH is an [app](https://thinkuh.meteorapp.com/) that me and two others have created in a team for our ICS 314 final project.  This was designed specifically for each pathway to find out the prerequisites of their courses, the professors teaching each class, and ways to interact with former and current students. 
 
-In this particular event, there was a competition to see who could come up with a design/logo that would fit certain requirements given.  These requirements included that it had to be in relation to the event and it had to be appropriate.  Because this was related to hardware, I decided on a spinning cog with the middle being a computer disk (rainbow color).  I won the competition, and my logo became the new logo of the month for WetWare.
+Because this was a project that would take a lot of time, we decided to begin with the ICS pathway, since we already know most of the classes that must be taken in order to graduate.  It wasn't the first time I worked in a group, but it was interesting to see the thought process of my two other team members while doing the project.  During class, we always did a new mockup on the whiteboard to reroute or continue from where we completed each task, and that also took careful planning.
 
-I learned to think on my feet.  I say this because I only knew of the competition the day before the event, not to mention that it was already nighttime and I still had the normal homework to do.  I usually take more time to process and understand things, so it was a new experience to figure out an idea that fast and be able to immediately implement it.
+I learned quite a lot of things from this project.  For one, I somehow keep getting unlucky with illness, because one member and I fell very ill during the first couple most important days of Milestone 1, although we tried our best to work through it.  Besides learning to work through any obstacle, I also learned to speak up, because that is the only way your ideas will be heard and implemented in the project.  Finally, I learned how to do a larger project than normal, as most hackathons are a day long.
