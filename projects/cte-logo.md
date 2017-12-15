@@ -7,6 +7,8 @@ permalink: projects/cte
 date: 2016
 labels:
   - Adobe Illustrator
+  - Teamwork
+  - Command Line
 summary: A team graphic design logo competition.
 ---
 
@@ -16,4 +18,4 @@ The CTE PBA is an annual competition.  However, the real goal was to get the CTE
 
 In my category, we were to stay at a hotel for two nights.  Against 16 other teams, we had one night to make logos for DLNR in relation to environmental issues.  During that time, we also had to make a PowerPoint presentation and submit it on the same day.  From there, we stayed up all of the second night to prepare for the interview with the DLNR associates the following morning.  We won the competition in our category and our logos went to DLNR for their use.
 
-I learned to never give up.  Although this might sound like an overused statement, I have my reasons.  My teammates and I got food poisoning (along with others), and we had to endure that while doing the interview.  It was torture, but we had gone too far and worked so hard that our determination won out.  I also learned how to do interviews and to get my nerves out, so I can be more confident when interacting with others in general.
+I learned to never give up.  Although this might sound like an overused statement, I have my reasons.  For one, no one from our school was able to get into their computers because the teachers got the usernames wrong.  From basic command line usage, I was able to find the correct ones by changing directories.  On top of that, my teammates and I got food poisoning (along with others), and we had to endure that while doing the interview.  It was torture, but we had gone too far and worked so hard that our determination won out.  I also learned how to do interviews and to get my nerves out, so I can be more confident when interacting with others in general.
