@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Kirsten Takanishi",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://Kirsten0604.github.io/images/kirsten.jpg",
     "email": "khtakani@hawaii.edu",
     "phone": "",
@@ -9,10 +9,10 @@
     "summary": "I have graduated with B.A. in Computer Science in the Department of Information and Computer Sciences, along with a minor in Business Administration at the University of Hawaii as of Fall 2019.",
     "location": {
       "address": "",
-      "postalCode": "96825",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
@@ -39,22 +39,22 @@
       ]
     },
     {
-      "name": "Video Games",
+      "name": "Malware Analysis",
       "keywords": [
       ]
     },
     {
-      "name": "Songwriting",
+      "name": "Pentesting",
       "keywords": [
       ]
     },
     {
-      "name": "Dancing",
+      "name": "Machine Learning",
       "keywords": [
       ]
     },
     {
-      "name": "Cybersecurity",
+      "name": "AI Programming",
       "keywords": [
       ]
     }
