@@ -67,24 +67,25 @@
         "Javascript",
         "Assembly",
         "SQL",
-        "CSS",
-        "Scala",
-        "HTML"
+        "CSS3",
+        "HTML5"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "Windows",
+        "Linux",
+        "Docker",
         "g++",
         "gcc",
         "Ghidra",
         "IDA",
         "GDB",
+        "YARA",
         "Cutter"
       ]
     }
@@ -253,26 +254,26 @@
     {
       "title": "WetWare Wednesday Graphic Design Logo Winner",
       "date": "2016",
-      "awarder": "WetWare",
-      "summary": "Design a logo related to hardware."
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "Career and Technical Education (CTE) competition 1st place Graphic Design",
+      "title": "Career and Technical Education (CTE) competition 1st place Graphic Design/CTE Honors",
       "date": "2016",
-      "awarder": "DLNR",
-      "summary": "Design a logo related to environmental issues."
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "Science Technology Engineering Math (STEM) Honors",
       "date": "2016",
-      "awarder": "Henry J. Kaiser High School",
-      "summary": "Create a project over the course of the year in relation to all components of STEM."
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "Distinguished Young Women of Hawaii 1st place Talent Award",
       "date": "2016",
-      "awarder": "Distinguished Young Women of Hawaii",
-      "summary": "Compete in a competition for scholarships towards college."
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
