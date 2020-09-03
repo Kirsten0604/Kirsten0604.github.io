@@ -82,14 +82,16 @@
         "Windows",
         "g++",
         "gcc",
-        "TI LaunchPad"
+        "Ghidra",
+        "IDA",
+        "GDB"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (Fall, 2019)",
+      "area": "Computer Science | Business Administration (Fall, 2019)",
       "studyType": "B.A.",
       "startDate": "2016-08-01",
       "endDate": "Fall 2019",
