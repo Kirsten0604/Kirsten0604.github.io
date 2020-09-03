@@ -60,6 +60,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "Python",
         "C",
         "C++",
         "Java",
@@ -67,7 +68,6 @@
         "Assembly",
         "SQL",
         "CSS",
-        "Python",
         "Scala",
         "HTML"
       ]
@@ -84,7 +84,8 @@
         "gcc",
         "Ghidra",
         "IDA",
-        "GDB"
+        "GDB",
+        "Cutter"
       ]
     }
   ],
@@ -101,28 +102,68 @@
     }
   ],
   "work": [
+     {
+      "company": "Booz Allen Hamilton",
+      "position": "Malware Analysis Intern",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [
+        "Created a malware analysis framework that combines multiple analysis tools into one package",
+        "Made the GUI version to replace command line arguments using Tkinter",
+        "Implemented a module directly aimed towards classifying and analyzing malware samples by using  preset rules or creating new rule"
+      ]
+    },
+    {
+      "company": "World Wide Technology | HMSA",
+      "position": "Engineering Intern",
+      "website": "",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [
+        "Programmed Webex bot in SQL and Python",
+        "Met with vendors to learn the consulting end of the company",
+        "Worked with AP maps and predictives for Kamehameha School"
+        "Practiced Defcon and CCNA challenges"
+        "Worked with hardware at HMSA to prepare for cutovers"
+      ]
+    },
     {
       "company": "Office of Enterprise Technology Services, State of Hawaii",
       "position": "Chief Information Officer Intern",
       "website": "",
       "startDate": "2017",
       "endDate": "2017",
-      "summary": "Intern for CIO Todd Nacapuy at ETS",
+      "summary": "",
       "highlights": [
-        "Intern for CIO Todd Nacapuy",
+        "Personal intern of CIO Todd Nacapuy",
         "Attended meetings to learn the “language” of the higher-ups",
         "Developed HACC Logo for 2017"
       ]
     },
     {
-      "company": "BYO Bowls",
-      "position": "Bartender",
+      "company": "DevLeague",
+      "position": "TA",
       "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2017",
-      "summary": "BYO Bowls is ECO friendly and allows you to build-your-own-bowl.  These include stir-fry bowls, poke bowls, and acai bowls.  There is also an assortment of drinks freshly made by the bartender.",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "",
       "highlights": [
-      "Assist patrons with menu information and provide recommendations for custom made healthy dining options",
+        "Assisted students in the Prep course with Javascript",
+        "Taught the Windows commands (Devleague mostly runs with Macs/Linux)",
+      ]
+    },
+    {
+      "company": "BYO Bowls",
+      "position": "Bartender, Griller, Server, Dishwasher",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+      "Assist patrons with menu information and provide recommendations",
       "Grilling and bartending to achieve skills in cooking and making drinks",
       "Enhance patron dining experience by identifying and responding to special request",
       "Safeguard the restaurant by adhering to safety and sanitation policies"
@@ -133,9 +174,9 @@
     {
       "organization": "ICS Grey Hats Cyber Security Club",
       "website": "",
-      "position": "Treasurer",
+      "position": "Treasurer, President",
       "startDate": "2016",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
         "Participate in CTF competitions",
@@ -146,24 +187,13 @@
     {
       "organization": "ACM (Association and Computer Machinery) Club",
       "website": "",
-      "position": "Member",
+      "position": "Member, President",
       "startDate": "2016",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
         "Find internship opportunities",
         "Learn how to do interviews and build your resume"
-      ]
-    },
-    {
-      "organization": "DevLeague",
-      "website": "",
-      "position": "Teaching Assistant",
-      "startDate": "2016",
-      "endDate": "2016",
-      "summary": "",
-      "highlights": [
-        "Assist in teaching students the basics of Javascript"
       ]
     },
     {
