@@ -9,6 +9,9 @@
 {% for entry in site.data.bio.volunteer %}
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom">
+      <b>
+      {{ entry.position }}{% if entry.organization and (entry.organization != "") %}, {{ entry.organization }}{% endif %}
+      </b>
     </p>
     <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
   </div>
@@ -35,7 +38,7 @@
     {% if entry.highlights %}
       <ul style="margin: 0px;">
         {% for highlight in entry.highlights %}
-          <li>{{ highlight }}</li>
+          
         {% endfor %}
       </ul>
     {% endif %}
