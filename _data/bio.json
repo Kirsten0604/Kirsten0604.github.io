@@ -112,7 +112,7 @@
       "highlights": [
         "Created a malware analysis framework that combines multiple analysis tools into one package",
         "Made the GUI version to replace command line arguments using Tkinter",
-        "Implemented a module directly aimed towards classifying and analyzing malware samples by using  preset rules or creating new rule"
+        "Implemented a module directly aimed towards classifying and analyzing malware samples by using  preset rules or creating new rules"
       ]
     },
     {
