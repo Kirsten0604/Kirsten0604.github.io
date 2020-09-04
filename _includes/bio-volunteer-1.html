@@ -17,7 +17,13 @@
           </b>
         </p>
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-        
+        <p class="ui no-bottom">{{ entry.summary }}</p>
+        {% if entry.highlights %}
+        <ul style="margin: 0px;">
+          {% for highlight in entry.highlights %}
+          <li>{{ highlight }}</li>
+          {% endfor %}
+        </ul>
         {% endif %}
       </div>
       <div class="four wide right aligned column no-bottom">
