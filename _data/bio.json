@@ -8,7 +8,7 @@
     "website": "https://Kirsten0604.github.io",
     "summary": "I have graduated with B.A. in Computer Science in the Department of Information and Computer Sciences, along with a minor in Business Administration at the University of Hawaii as of Fall 2019.",
     "location": {
-      "countryCode": "USA"
+      "countryCode": ""
     },
     "profiles": [
       {
@@ -93,10 +93,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science | Business Administration (Fall, 2019)",
+      "area": "Computer Science | Business Administration",
       "studyType": "B.A.",
       "startDate": "2016-08-01",
-      "endDate": "Fall 2019",
+      "endDate": "2019",
       "gpa": "",
       "courses": [
       ]
